@@ -1,3 +1,4 @@
 # myrepo
-this repo is for practise purpose
-author:- Rohit Gavande
+This repo is for practise purpose
+<br>
+Author:- Rohit Gavande
